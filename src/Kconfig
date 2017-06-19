@@ -1,0 +1,5 @@
+config APP_HELLO
+    bool "CAmkES application: hello"
+    default n
+    help
+        CAmkES application: hello

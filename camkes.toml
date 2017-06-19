@@ -1,0 +1,3 @@
+name = "hello"
+manifest_url = "https://github.com/seL4/camkes-manifest.git"
+manifest_name = "default.xml"
