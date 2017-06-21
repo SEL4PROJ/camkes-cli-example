@@ -9,7 +9,7 @@ There's no repo manifest, and no seL4 build system - just the application, and a
 
 You will need:
  - the CAmkES CLI: `pip install camkes-cli`
- - CAmkES build deps: https://github.com/SEL4PROJ/camkes-cli-example.git
+ - CAmkES build deps: https://wiki.sel4.systems/CAmkES#Build_dependencies
 
 Now just clone, init and run:
 ```
