@@ -19,4 +19,7 @@ camkes-cli init
 camkes-cli run x86
 ```
 
+This build and runs a program on seL4 that prints "Hello, World!".
+The app runs in qemu. Press `ctrl+a (release) x` to close.
+
 More info: https://wiki.sel4.systems/CAmkESCLI
